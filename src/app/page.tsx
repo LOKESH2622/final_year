@@ -125,22 +125,12 @@ export default function Home() {
             </div>
           </div>
           <h1 className="text-5xl font-extrabold bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent mb-3">
-            Smart Voice Complaint System
+            AwaazChain
           </h1>
           <p className="text-xl text-gray-300 font-medium">
             Express yourself in <span className="text-blue-400 font-bold">English</span> or <span className="text-purple-400 font-bold">தமிழ்</span>
           </p>
-          <div className="mt-4 flex items-center justify-center gap-3">
-            <span className="px-4 py-2 bg-gray-800/80 backdrop-blur-sm rounded-full text-sm font-semibold text-gray-200 shadow-md border border-gray-700">
-              ⚡ AI-Powered
-            </span>
-            <span className="px-4 py-2 bg-gray-800/80 backdrop-blur-sm rounded-full text-sm font-semibold text-gray-200 shadow-md border border-gray-700">
-              🔒 Secure
-            </span>
-            <span className="px-4 py-2 bg-gray-800/80 backdrop-blur-sm rounded-full text-sm font-semibold text-gray-200 shadow-md border border-gray-700">
-              🚀 Fast
-            </span>
-          </div>
+          
         </div>
 
         {/* Enhanced Progress Indicator */}
